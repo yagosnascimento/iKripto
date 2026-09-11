@@ -1,7 +1,4 @@
-<div align="center">
-<h1>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Yago%20%20Nascimento&section=header&reversal=true">
-</div>
+<img src="banner.png" alt="Banner" width="100%">
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Estudante%20de%20ADS-blueviolet?style=for-the-badge&logo=googlescholar&logoColor=white" />
